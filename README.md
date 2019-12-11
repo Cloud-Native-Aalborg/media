@@ -19,4 +19,4 @@ The [MHIVestas slide deck](slides/CloudNative-Aalborg-MHIVestas-Exploiting-the-w
 
 ### Meetup #4
 
-The [complete slide deck](slides/CloudNative-Aalborg-#4-Meetup.pdf) from the fourth meetup. 
+The [complete slide deck](slides/CloudNative-Aalborg-4.pdf) from the fourth meetup. 
