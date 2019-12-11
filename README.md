@@ -16,3 +16,7 @@ The [complete slide deck](slides/CloudNative-Aalborg-2.pdf) from the second meet
 
 The [the initial slide deck](slides/CloudNative-Aalborg-3.pdf) part 1 from the third meetup.
 The [MHIVestas slide deck](slides/CloudNative-Aalborg-MHIVestas-Exploiting-the-winds-of-change) part 2 from the third meetup.
+
+### Meetup #4
+
+The [complete slide deck](slides/CloudNative-Aalborg-#4-Meetup.pdf) from the fourth meetup. 
