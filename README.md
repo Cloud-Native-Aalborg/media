@@ -24,7 +24,10 @@ The [complete slide deck](slides/CloudNative-Aalborg-4.pdf) from the fourth meet
 ### Meetup #5
 
 The organisers: [the initial slide deck](slides/CloudNative-Aalborg-5.pdf) part 1 from the fifth meetup.
+
 The host: [Welcome from Netic](slides/CloudNative-Aalborg-5-Welcome by Netic.pdf)
+
 The talk: [Introducing KUDO Kubernetes Operators - The Easy Way deck](slides/CloudNative-Aalborg-5-Introducing KUDO D2iQ.pdf)
+
 The talk: [Building a bank from scratch on Kubernetes](slides/CloudNative-Aalborg-5-building-a-bank-onk8s-tietoEVRY.pdf)
 
